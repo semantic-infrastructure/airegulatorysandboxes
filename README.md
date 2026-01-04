@@ -14,7 +14,7 @@ This is a non-commercial reference specification.
 
 AI regulatory sandboxes as defined in the EU AI Act:
 - controlled testing environments
-- regulatory guidance before market deployment
+- regulatory guidance prior to market deployment
 - structured risk evaluation for high-risk AI systems
 
 This project focuses on **infrastructure mechanics**, not policy debate.
@@ -24,14 +24,25 @@ This project focuses on **infrastructure mechanics**, not policy debate.
 ## What a sandbox is (functional definition)
 
 An AI regulatory sandbox is:
-- a supervised testing environment
-- with predefined scope, duration, and oversight
-- producing verifiable compliance artifacts
+- a supervised experimentation environment
+- with predefined scope, duration, and regulatory oversight
+- producing verifiable compliance and risk artifacts
+
+A sandbox may operate in physical, digital, or hybrid form.
 
 A sandbox is **not**:
-- an accelerator
+- an accelerator or incubator
 - a certification body
-- a commercial testing service
+- a commercial testing or consulting service
+
+---
+
+## Purpose
+
+To enable trustworthy AI by allowing developers — with priority for
+SMEs and startups — to test compliance with legal requirements under
+regulatory supervision, without immediate exposure to administrative
+sanctions.
 
 ---
 
@@ -41,15 +52,15 @@ A sandbox is **not**:
 - Test plan & defined use cases
 - Risk register (pre / during / post)
 - Evaluation & incident logs
-- Final sandbox outcome report
-- Evidence package for audit, procurement, or insurance
+- Final sandbox outcome (exit) report
+- Portable evidence package for audit, procurement, or insurance
 
 ---
 
 ## Outputs & Portability
 
-Sandbox participation results in a **portable evidence package**,
-usable across:
+Sandbox participation results in a **portable evidence package**
+that can be reused across:
 - regulatory filings
 - audits & conformity assessments
 - procurement processes
@@ -61,6 +72,10 @@ usable across:
 
 Primary focus:
 - European Union (EU AI Act)
+
+Implementation note:
+- EU Member States are required to establish at least one national
+  AI regulatory sandbox by **2 August 2026**.
 
 Secondary mapping:
 - OECD sandbox patterns
