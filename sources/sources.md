@@ -1,29 +1,29 @@
 # Sources
 
 ## Purpose
-This page lists the authoritative sources informing the AI regulatory sandbox reference framework.
-The focus is on operational mechanics, evidence production, and regulatory portability under supervised testing regimes.
+This page documents the authoritative legal and institutional sources underpinning AI regulatory sandboxes.
+The focus is on supervised testing, evidence production, and regulatory portability under formal oversight.
 This page is reference-only and non-commercial.
 
 ## Source hierarchy
-1. Primary sources: binding legislation and regulatory guidance
-2. Secondary sources: multilateral frameworks and regulator-authored analyses
-3. Excluded sources: consulting offers, accelerators, policy commentary
+1. Primary sources: binding legislation and official regulatory frameworks
+2. Secondary sources: multilateral policy analysis and regulator-authored guidance
+3. Excluded sources: consulting services, accelerators, policy commentary
 
 ## Curated sources
-- European Commission — Artificial Intelligence Act  
-  https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai?utm_source=chatgpt.com
+- European Union — Artificial Intelligence Act (Regulation (EU) 2024/1689, EUR-Lex ELI, Official Journal)
+  https://eur-lex.europa.eu/eli/reg/2024/1689/oj
 
-- European Parliament — AI Act adoption (press release) 
-  https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law?utm_source=chatgpt.com
+- European Commission — AI Act (official Commission news entry; stable Commission domain)
+https://commission.europa.eu/news-and-media/news/ai-act-enters-force-2024-08-01_en?utm_source=chatgpt.com
 
-- OECD — regulatory sandbox frameworks  
-  https://www.oecd.org/en/publications/regulatory-sandboxes-in-artificial-intelligence_8f80a0e6-en.html?utm_source=chatgpt.com
+- OECD — Regulatory Sandboxes in Artificial Intelligence
+  https://www.oecd.org/publications/regulatory-sandboxes-in-artificial-intelligence-8f80a0e6-en.htm
 
-- UK Financial Conduct Authority (FCA) — sandbox methodology  
-  https://www.fca.org.uk/firms/innovation/regulatory-sandbox
+- UK Financial Conduct Authority (FCA) — Regulatory Sandbox
+  https://www.fca.org.uk/firms/regulatory-sandbox
 
-- Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) — FinTech Innovation Hub (EN) 
+- Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) — FinTech Innovation Hub (EN)
   https://www.bafin.de/EN/Aufsicht/FinTech/fintech_node_en.html
 
 ## Update policy
